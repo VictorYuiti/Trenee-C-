@@ -1,3 +1,3 @@
 #include <stdio.h>
 
-int delta;
+int delta(B);
